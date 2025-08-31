@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valantiq - Launching Soon</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background-color: #000000;
+            min-height: 100vh;
+            color: white;
+            overflow-x: hidden;
+        }
+
+        .container {
+            display: flex;
+            min-height: 100vh;
+            align-items: center;
+            padding: 0 60px;
+        }
+
+        .left-section {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+        }
+
+        .right-section {
+            flex: 1;
+            padding-left: 80px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .logo {
+            position: absolute;
+            top: 60px;
+            left: 60px;
+            font-size: 2rem;
+            font-weight: 400;
+            color: white;
+            letter-spacing: 1px;
+        }
+
+        .main-text {
+            font-size: 5rem;
+            font-weight: 300;
+            line-height: 1.1;
+            text-align: center;
+            position: relative;
+            z-index: 2;
+        }
+
+        .launching {
+            color: white;
+            margin-bottom: -10px;
+        }
+
+        .soon {
+            color: white;
+            margin-top: -10px;
+        }
+
+        .cube-container {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 300px;
+            height: 300px;
+            perspective: 1000px;
+            z-index: 1;
+        }
+
+        .cube {
+            width: 200px;
+            height: 200px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            transform-style: preserve-3d;
+            animation: rotateCube 8s infinite linear;
+        }
+
+        .cube-face {
+            position: absolute;
+            width: 200px;
+            height: 200px;
+            border: 2px solid rgba(255, 255, 255, 0.1);
+            background: rgba(255, 255, 255, 0.02);
+            backdrop-filter: blur(10px);
+        }
+
+        .front { transform: translateZ(100px); }
+        .back { transform: rotateY(180deg) translateZ(100px); }
+        .right { transform: rotateY(90deg) translateZ(100px); }
+        .left { transform: rotateY(-90deg) translateZ(100px); }
+        .top { transform: rotateX(90deg) translateZ(100px); }
+        .bottom { transform: rotateX(-90deg) translateZ(100px); }
+
+        @keyframes rotateCube {
+            0% { transform: translate(-50%, -50%) rotateX(0deg) rotateY(0deg); }
+            100% { transform: translate(-50%, -50%) rotateX(360deg) rotateY(360deg); }
+        }
+
+        .description {
+            margin-bottom: 3rem;
+        }
+
+        .subtitle {
+            font-size: 1.5rem;
+            font-weight: 300;
+            margin-bottom: 2rem;
+            color: rgba(255, 255, 255, 0.9);
+        }
+
+        .description-text {
+            font-size: 1.1rem;
+            line-height: 1.6;
+            color: rgba(255, 255, 255, 0.8);
+            margin-bottom: 2rem;
+            font-weight: 300;
+        }
+
+        .contact {
+            font-size: 1.1rem;
+            line-height: 1.6;
+            color: rgba(255, 255, 255, 0.8);
+            font-weight: 300;
+        }
+
+        .contact-intro {
+            margin-bottom: 0.5rem;
+        }
+
+        .email {
+            color: white;
+            text-decoration: none;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+            transition: border-color 0.3s ease;
+        }
+
+        .email:hover {
+            border-color: white;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 1200px) {
+            .container {
+                padding: 0 40px;
+            }
+            
+            .right-section {
+                padding-left: 40px;
+            }
+        }
+
+        @media (max-width: 900px) {
+            .container {
+                flex-direction: column;
+                padding: 40px 20px;
+            }
+            
+            .logo {
+                position: relative;
+                top: auto;
+                left: auto;
+                margin-bottom: 2rem;
+                text-align: center;
+            }
+            
+            .left-section {
+                margin-bottom: 4rem;
+            }
+            
+            .right-section {
+                padding-left: 0;
+                text-align: center;
+            }
+            
+            .main-text {
+                font-size: 3.5rem;
+            }
+            
+            .cube {
+                width: 150px;
+                height: 150px;
+            }
+            
+            .cube-face {
+                width: 150px;
+                height: 150px;
+            }
+            
+            .front { transform: translateZ(75px); }
+            .back { transform: rotateY(180deg) translateZ(75px); }
+            .right { transform: rotateY(90deg) translateZ(75px); }
+            .left { transform: rotateY(-90deg) translateZ(75px); }
+            .top { transform: rotateX(90deg) translateZ(75px); }
+            .bottom { transform: rotateX(-90deg) translateZ(75px); }
+        }
+
+        @media (max-width: 600px) {
+            .main-text {
+                font-size: 2.5rem;
+            }
+            
+            .cube {
+                width: 120px;
+                height: 120px;
+            }
+            
+            .cube-face {
+                width: 120px;
+                height: 120px;
+            }
+            
+            .front { transform: translateZ(60px); }
+            .back { transform: rotateY(180deg) translateZ(60px); }
+            .right { transform: rotateY(90deg) translateZ(60px); }
+            .left { transform: rotateY(-90deg) translateZ(60px); }
+            .top { transform: rotateX(90deg) translateZ(60px); }
+            .bottom { transform: rotateX(-90deg) translateZ(60px); }
+        }
+    </style>
+</head>
+<body>
+    <div class="logo">Valantiq</div>
+    
+    <div class="container">
+        <div class="left-section">
+            <div class="cube-container">
+                <div class="cube">
+                    <div class="cube-face front"></div>
+                    <div class="cube-face back"></div>
+                    <div class="cube-face right"></div>
+                    <div class="cube-face left"></div>
+                    <div class="cube-face top"></div>
+                    <div class="cube-face bottom"></div>
+                </div>
+            </div>
+            
+            <div class="main-text">
+                <div class="launching">Launching</div>
+                <div class="soon">soon</div>
+            </div>
+        </div>
+        
+        <div class="right-section">
+            <div class="description">
+                <div class="subtitle">Valantiq is almost live.</div>
+                
+                <div class="description-text">
+                    We help businesses unlock the revenue potential of their marketing data - connecting it with investment managers to drive new revenue stream.
+                </div>
+                
+                <div class="description-text">
+                    We also partners with companies across the marketing ecosystem to evolve their product strategy and accelerate innovation beyond their core offering.
+                </div>
+            </div>
+            
+            <div class="contact">
+                <div class="contact-intro">Interested in working together?</div>
+                <div>Reach us at <a href="mailto:info@valantiq.com" class="email">info@valantiq.com</a></div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
