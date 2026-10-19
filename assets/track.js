@@ -23,9 +23,12 @@ function on() { return window.__valantiqAnalytics === true; }
 function clean(s) {   // collapsed whitespace, no email address, at most 100 characters (GA4's limit for a parameter value)
 return String(s || '').replace(/\S+@\S+/g, '').replace(/\s+/g, ' ').trim().slice(0, 100);
 }
+var KEYS = ['component', 'item', 'position', 'detail', 'cta_location', 'cta_label', 'intent', 'percent_scrolled', 'section_id',
+'link_label', 'link_location', 'link_domain'];
 function send(name, params) {
 if (!on()) return;
 var d = { event: name, page_type: PAGE };
+for (var i = 0; i < KEYS.length; i++) { d[KEYS[i]] = undefined; }
 for (var k in params) { if (Object.prototype.hasOwnProperty.call(params, k)) d[k] = params[k]; }
 (window.dataLayer = window.dataLayer || []).push(d);
 }
