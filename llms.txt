@@ -1,0 +1,21 @@
+# Valantiq
+
+> Valantiq helps data-rich companies license their data to hedge funds and asset managers, for recurring, high-margin revenue on top of your core business.
+
+Valantiq Limited. Registered in England and Wales, company number 16522699. Registered office: International House, 36-38 Cornhill, London, EC3V 3NG, United Kingdom.
+
+## Pages
+
+- [Data owners](https://valantiq.com/): Valantiq helps data-rich companies license their data to hedge funds and asset managers, for recurring, high-margin revenue on top of your core business.
+- [Data buyers](https://valantiq.com/for-investment-managers/): Marketing data your fund hasn't seen yet. We scout it before it reaches the market, with first look and exclusivity.
+- [About](https://valantiq.com/about/): Marko Matejčić founded Valantiq in 2025 to take marketing data businesses to funds. IAB Europe's Digital Strategy Person of the Year 2022.
+- [Privacy Policy](https://valantiq.com/privacy/): This notice explains what personal data Valantiq Limited collects through this website and what we do with it.
+
+## Contact
+
+- Email: info@valantiq.com
+- [LinkedIn](https://www.linkedin.com/company/valantiq/)
+
+## Optional
+
+- [Full text](https://valantiq.com/llms-full.txt): every page in one file

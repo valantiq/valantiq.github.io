@@ -1,0 +1,485 @@
+# Valantiq
+
+> Valantiq helps data-rich companies license their data to hedge funds and asset managers, for recurring, high-margin revenue on top of your core business.
+
+---
+
+<https://valantiq.com/>
+
+## Your marketing data can earn new revenue from hedge funds.
+
+Valantiq helps you take the data you already hold to market, by the route that suits you. You add recurring, high-margin income on top of your core business.
+
+See how it works
+
+- 17 years in marketing and media data
+
+- 20+ awards including a Cannes Lion for data technology
+
+- 300+ funds and asset managers within reach
+
+### Hedge funds already pay for data like yours.
+
+Marketing data is among the most useful they can find. It shows how listed companies are doing before they publish results.
+
+- What you track A brand Coca-Cola · Fanta · Sprite
+
+- Who owns it Its parent company The Coca-Cola Company (TCCC)
+
+- What a fund invests in The parent’s listed shares TCCC → KO stock ticker
+
+- What a fund buys Your data, mapped to the parent’s ticker TCCC brands → KO
+
+### Valantiq takes you from where you stand to licensed revenue.
+
+We advise independently on whether to build in-house, go hybrid or outsource, and we bring the wider view on what to look out for.
+
+- Step 1 Readiness — Understand where you stand. We work with your team to understand your readiness and capabilities, starting with your client agreements.
+
+- Step 2 Route — Commit to the route that fits. We set your readiness against the routes, with the pros and cons of each, so you commit knowing why.
+
+- Step 3 Revenue — Reach licensed revenue. We take you through the route you chose, and stay close until it is turning into licensed revenue.
+
+### Which of your data would a fund want?
+
+Find the kind of data you hold. See what it is, and the question a fund would ask of it.
+
+Advertising spend What you hold Continuous observation of which brands are advertising where, with what creative and at what estimated spend.
+
+What a fund asks Which listed companies are raising or cutting marketing ahead of their results, and what does that mean for the media owners and ad-tech businesses on the other side?
+
+Advertising platform data What you hold Aggregated, consented signals on how audiences respond to ads by category and brand. They show what people engage with, click on and convert on.
+
+What a fund asks Is a new launch winning real interest, or is heavy spend buying attention that doesn’t convert, ahead of the sales numbers?
+
+Ecommerce data What you hold Daily observations of price, promotion, availability as seen on the retailer’s site, search ranking and ratings for branded products.
+
+What a fund asks Is a listed consumer goods company gaining or losing price, availability and share of search against rivals and private label, weeks before its results?
+
+Web & app usage What you hold Aggregated data on how people use websites and apps, measured at scale and tied to who is using them.
+
+What a fund asks Which platforms, retailers and brands are gaining or losing users and time spent, ahead of the quarterly numbers?
+
+Location data What you hold Aggregated, anonymised counts of visits to places such as stores, restaurants and venues, and how that footfall changes over time.
+
+What a fund asks Is footfall at a listed retailer’s or restaurant chain’s locations rising or falling against its rivals, weeks before it reports sales?
+
+Transactional data What you hold Aggregated, anonymised records of what people buy, where and for how much, drawn from receipts, loyalty schemes and purchase panels.
+
+What a fund asks Is a listed company’s sales growth running ahead of or behind expectations, and which brands are its customers switching to?
+
+Social media data What you hold What people say publicly about brands, products and companies on social platforms, measured by volume and tone.
+
+What a fund asks Is opinion of a listed company’s brands or a new launch turning, and does it move before the sales numbers do?
+
+News and event data What you hold Coverage of companies, brands and products in the news, with the events behind it, such as launches, recalls, leadership changes and partnerships, dated to when each became public.
+
+What a fund asks Which listed companies have news building around them, a launch, a recall or a change at the top, and how far is it likely to move their results?
+
+Syndicated research What you hold Regular surveys and panels that track awareness, consideration and purchase intent for brands across a market, measured the same way over time.
+
+What a fund asks Which listed brands are gaining or losing awareness and consideration against their competitors, and is that an early sign of market share moving?
+
+Search data What you hold Aggregated volumes of what people search for, by brand, product and category, over time and by market.
+
+What a fund asks Is interest in a brand, product or category building or fading, and is demand shifting to a competitor ahead of the next results?
+
+### Seven questions decide whether a fund will give your data a try.
+
+Funds judge data differently from marketers. These are their questions, and knowing them in advance can multiply what the data earns.
+
+Does it map to listed companies?
+
+How much history is there?
+
+How wide is the coverage?
+
+How granular and stable is it?
+
+How fresh is it?
+
+Who else has it?
+
+Will it pass compliance?
+
+Does it map to listed companies?
+
+A fund invests in securities, so the data has to connect to them.
+
+Brands need linking to their parent companies and their tickers. An ecommerce data provider tracks products. A fund needs those products rolled up to the listed consumer goods company that owns them.
+
+How much history is there?
+
+Funds test a dataset against past results before they trust it.
+
+Several years of consistent history is far more valuable than a richer dataset that began last spring. An advertising spend provider that has observed campaigns since long before the fund came calling has an advantage that cannot be bought later.
+
+How wide is the coverage?
+
+Coverage means companies, categories and countries.
+
+A web & app usage data provider covering every significant website and app in its market answers more questions than one covering a single sector. We value global datasets that serve the widest range of strategies, and niche single-market or single-category datasets that suit funds with new strategies.
+
+How granular and stable is it?
+
+Funds prefer the most detailed view you can lawfully provide, delivered the same way every time.
+
+Methodology changes matter. If how the data is collected or measured shifts, the fund needs to know when and how, or it cannot tell a real trend from a measurement artefact.
+
+How fresh is it?
+
+A signal is worth most before the market has it.
+
+Daily delivery is the standard funds look for. Weekly is still useful, but a step down. A provider that can show what’s changing within days is describing the present. A quarterly summary describes the past.
+
+Who else has it?
+
+Exclusivity impacts price.
+
+This is why the choice between exclusive, limited and broad distribution is one of the most important commercial decisions a data owner makes, and why it should be made deliberately rather than by accident.
+
+Will it pass compliance?
+
+Every fund’s compliance team asks four questions.
+
+Where does the data come from? Do you have the right to license it? Does it contain personal data? Could it contain inside information? A clear answer to each, prepared in advance, is often the difference between a trial that starts in weeks and one that never starts.
+
+### A new line in the P&L, from data you already hold.
+
+Licence income reaches operating profit almost intact. What is left is repackaging the data and taking it to market.
+
+Recurring
+
+Sticky
+
+Incremental
+
+High margin
+
+Near-term
+
+Recurring
+
+Annual contracts, often running multiple years, much like a software subscription.
+
+Sticky
+
+Once a dataset is built into a fund’s models, switching away is costly, so renewal is the norm.
+
+Incremental
+
+A new stream on top of your core business, from a budget it has never sold into.
+
+High margin
+
+Its margin often reaches 90% or more, though every dataset is different.
+
+Near-term
+
+First licence revenue can arrive soon enough to show in this year’s numbers.
+
+### Licensing your data leaves your core business safe.
+
+Your existing client agreements set the limits, and four safeguards keep you within them.
+
+They are checked for whether they allow this use, or would need updating with your clients. Even if they allow it, you can still decide not to go ahead, if it could put your reputation or core business at risk.
+
+Funds receive aggregated, anonymised outputs. Individual-level or household-level data is aggregated or it is not used at all.
+
+A fund does not compete with your core business, and it licenses data for its own edge, so it has no reason to share it. Its licence also bars it from passing the data on, and Valantiq never holds or resells it.
+
+Funds are institutional buyers whose compliance teams examine every dataset before it is used. Their standard is usually stricter than marketing’s. Data that is fully compliant in marketing can still fall short. That scrutiny protects you too.
+
+### Three routes to your first licence.
+
+They differ in who does the work, how long it takes and what it costs.
+
+#### In-house
+
+#### Hybrid
+
+#### Outsource
+
+You hire a new team from the start, set up to do this and nothing else
+
+An existing product team does the work, supported by outside specialists or targeted hires until it can run on its own
+
+You give the partner access to the data, it builds and sells the product, and you receive your share of the revenue
+
+Multiple datasets, or one source that can be split into separate data products, so building the capability once serves them all
+
+Data that a data engineering team governs and keeps clean and ready to use. Already selling to marketing clients helps, but is not essential.
+
+Data that is not ready for outside users, where preparing it would take resources you do not have, or new hires
+
+A year if nothing slows it down. Realistically two.
+
+Six months if nothing slows it down. Realistically a year.
+
+Three months if nothing slows it down. Realistically six.
+
+Hiring takes time and money, and the effort goes into this instead of your core business, where it might earn more
+
+Outside specialists in legal and engineering, consultancy on fit and go-to-market, and your own team’s time, which could earn more elsewhere
+
+No upfront cost. You keep less of the revenue than by doing it yourself.
+
+A big commitment in a business outside your core, with hiring and fit unproven, and all of it funded by you until revenue starts
+
+Costs you can plan for. The risk is underestimating what it takes to be ready for funds.
+
+No strain on your organisation and no added cost. Once it has worked, the hybrid or in-house route is still open to you.
+
+You keep full revenue and full control. You have an established unit that works only on maximising what your data earns, and potentially on new solutions for your existing clients.
+
+You keep ownership and direction for less up front. Your team learns a new field, which can take years and may never match a team hired for it.
+
+You see quickly whether this makes money, and if it does not, or you are not ready, you know early and at little cost
+
+### Tell us what you hold.
+
+We’ll tell you whether there is a market for it, what it is worth and which route suits you.
+
+---
+
+<https://valantiq.com/for-investment-managers/>
+
+## Marketing data your fund hasn’t seen yet.
+
+We find marketing data businesses that have never sold to a fund, and prepare them first. You get first look, and exclusivity if you want it.
+
+See who is behind Valantiq
+
+- 17 years in marketing and media data
+
+- 8 years in leadership roles at WPP
+
+- IAB Europe Digital Strategy Person of the Year 2022
+
+### Marketing data reads a company before it reports.
+
+It follows named brands, those brands belong to listed companies, and it shows how those companies are performing before they publish their financial results.
+
+Advertising spend What it is Continuous observation of which brands are advertising where, with what creative and at what estimated spend.
+
+You’d ask Which listed companies are raising or cutting marketing ahead of their results, and what does that mean for the media owners and ad-tech businesses on the other side?
+
+Advertising platform data What it is Aggregated, consented signals on how audiences respond to ads by category and brand. They show what people engage with, click on and convert on.
+
+You’d ask Is a new launch winning real interest, or is heavy spend buying attention that doesn’t convert, ahead of the sales numbers?
+
+Ecommerce data What it is Daily observations of price, promotion, availability as seen on the retailer’s site, search ranking and ratings for branded products.
+
+You’d ask Is a listed consumer goods company gaining or losing price, availability and share of search against rivals and private label, weeks before its results?
+
+Web & app usage What it is Aggregated data on how people use websites and apps, measured at scale and tied to who is using them.
+
+You’d ask Which platforms, retailers and brands are gaining or losing users and time spent, ahead of the quarterly numbers?
+
+Location data What it is Aggregated, anonymised counts of visits to places such as stores, restaurants and venues, and how that footfall changes over time.
+
+You’d ask Is footfall at a listed retailer’s or restaurant chain’s locations rising or falling against its rivals, weeks before it reports sales?
+
+Transactional data What it is Aggregated, anonymised records of what people buy, where and for how much, drawn from receipts, loyalty schemes and purchase panels.
+
+You’d ask Is a listed company’s sales growth running ahead of or behind expectations, and which brands are its customers switching to?
+
+Social media data What it is What people say publicly about brands, products and companies on social platforms, measured by volume and tone.
+
+You’d ask Is opinion of a listed company’s brands or a new launch turning, and does it move before the sales numbers do?
+
+News and event data What it is Coverage of companies, brands and products in the news, with the events behind it, such as launches, recalls, leadership changes and partnerships, dated to when each became public.
+
+You’d ask Which listed companies have news building around them, a launch, a recall or a change at the top, and how far is it likely to move their results?
+
+Syndicated research What it is Regular surveys and panels that track awareness, consideration and purchase intent for brands across a market, measured the same way over time.
+
+You’d ask Which listed brands are gaining or losing awareness and consideration against their competitors, and is that an early sign of market share moving?
+
+Search data What it is Aggregated volumes of what people search for, by brand, product and category, over time and by market.
+
+You’d ask Is interest in a brand, product or category building or fading, and is demand shifting to a competitor ahead of the next results?
+
+### We qualify the data before it reaches you.
+
+We ask seven questions of every dataset before we introduce it. You get a short overview. It shows how clear each answer is, and how ready the dataset is for a trial.
+
+Does it map to listed companies?
+
+How much history is there?
+
+How wide is the coverage?
+
+How granular and stable is it?
+
+How fresh is it?
+
+Who else has it?
+
+Will it pass compliance?
+
+Does it map to listed companies?
+
+A fund invests in securities, so the data has to connect to them.
+
+We check that brands are linked to their parent companies and their tickers. An ecommerce data provider tracks products, and you need those products rolled up to the listed consumer goods company that owns them.
+
+How much history is there?
+
+You will want to test a dataset against past results before you trust it.
+
+Several years of consistent history is far more valuable than a richer dataset that began last spring. A provider that has observed campaigns since long before your fund came calling has an advantage that cannot be bought later. We show you how far back each dataset goes.
+
+How wide is the coverage?
+
+Coverage means companies, categories and countries.
+
+A web & app usage data provider covering every significant website and app in its market answers more questions than one covering a single sector. Global datasets serve the widest range of strategies. Niche single-market or single-category datasets suit funds with new strategies.
+
+How granular and stable is it?
+
+You will want the most detailed view that can lawfully be provided, delivered the same way every time.
+
+Methodology changes matter. If how the data is collected or measured shifts, you need to know when and how, or you cannot tell a real trend from a measurement artefact. We ask for this before we introduce a dataset.
+
+How fresh is it?
+
+A signal is worth most before the market has it.
+
+Daily delivery is the standard funds look for. Weekly is still useful, but a step down. A provider that can show what’s changing within days is describing the present. A quarterly summary describes the past.
+
+Who else has it?
+
+Exclusivity impacts price.
+
+We show you how widely a dataset is held, and you can ask for exclusivity if you want it.
+
+Will it pass compliance?
+
+Your compliance team will ask four questions.
+
+Where does the data come from? Does the owner have the right to license it? Does it contain personal data? Could it contain inside information? We ask each of them first and prepare a clear answer, which is often the difference between a trial that starts in weeks and one that never starts.
+
+### We take our commission from the seller’s side.
+
+Your fund doesn’t pay for scouting. Four things keep your side clean.
+
+We’re paid by data owners, and by the companies that bring their data to market. If you’d rather pay us directly, ask, and we’ll agree terms that suit.
+
+What you tell us you’re looking for stays between us. We don’t share it with data owners or other funds.
+
+It sits with whoever holds the rights, and it bars passing the data on. We never hold or resell the data.
+
+You receive aggregated, anonymised outputs. We ask where each dataset comes from, whether its owner can license it, and whether it holds personal data or inside information, before we introduce it.
+
+### Three ways to get first look.
+
+Scout with us, send a brief, or take a place in a partnership with one fund only.
+
+- Scouting — We bring you datasets that are new to the market, as we find them. — —
+
+- Brief — Tell us what you’re looking for, and we’ll search our contacts in marketing and media data until the right dataset is ready for you. — — — —
+
+- Companies, sectors or brands you follow
+
+- Countries
+
+- How much history you need
+
+- How fresh, and how often
+
+- Whether you want exclusivity
+
+- What your compliance team will ask for
+
+- Partnership — We introduce one fund to a company that has not sold data to the market before, which we do rarely and with one fund only. — —
+
+### Tell us what you’re looking for.
+
+Send a brief, or ask us to scout. We’ll tell you what’s out there, and what could be.
+
+---
+
+<https://valantiq.com/about/>
+
+## I connect marketing data with the funds that buy it.
+
+I was named IAB Europe’s Digital Strategy Person of the Year in 2022. I founded Valantiq in 2025 to take marketing data businesses to funds, starting with those who don’t yet know they can sell to them.
+
+Connect with Marko Matejčić
+
+### Seventeen years where marketing meets data.
+
+I’ve built the platforms that used marketing data to underpin 80 billion of advertising spend.
+
+- WPP — 8 years in leadership roles
+
+- 2022 — IAB Europe Digital Strategy Person of the Year
+
+- 20+ awards — including a Cannes Lion for data technology
+
+### Hedge funds buy data differently, and I know how.
+
+I help marketing data businesses become ready for hedge funds, and I introduce them once they are.
+
+- 2025 — Valantiq founded
+
+- 15+ — businesses introduced to funds since, and growing
+
+- 300+ — funds and asset managers within reach
+
+### Funds see marketing data before it reaches the market.
+
+I scout marketing data businesses for funds, and prepare them first. You get first look, and exclusivity if you want it.
+
+- First look — on marketing data that is new to the market
+
+- Exclusivity — if you want it
+
+- A brief — tell me what you’re looking for, and I search my contacts
+
+### Val is Croatian for wave.
+
+Valantiq pairs it with IQ, for the idea behind the business. Intelligence creates value when it moves.
+
+### Let’s talk.
+
+Tell me what data you hold, or what your fund needs, and we’ll see if there’s a fit.
+
+---
+
+<https://valantiq.com/privacy/>
+
+## Privacy
+
+This notice explains what personal data Valantiq Limited collects through this website and what we do with it. Valantiq Limited is the data controller, registered in England and Wales with company number 16522699. You can reach us at info@valantiq.com or at International House, 36-38 Cornhill, London, EC3V 3NG, United Kingdom.
+
+### What we collect
+
+This site has no forms, no accounts and no advertising cookies.
+
+If you email us, we receive your name, your email address and whatever you choose to tell us. We use it to reply and to continue the conversation. Our lawful basis is our legitimate interest in responding to business enquiries.
+
+We use Google Analytics, loaded through Google Tag Manager, and Microsoft Clarity to measure visits and see how pages are used, and only if you accept analytics cookies when asked. Our lawful basis for analytics is your consent. Both record which pages and sections you view, how far you scroll, and which buttons, links and items you click or open. Clarity also records mouse movement, and can replay a visit as a recording. If you decline, none of them loads and no analytics cookies are set. You can change your choice at any time on this page. Our hosting provider may record technical information such as IP addresses in its server logs for security purposes.
+
+### Cookies
+
+These are set only if you accept analytics cookies. Google Analytics sets two, called _ga and _ga_ followed by an identifier. They tell visitors apart and keep one visit together, and each lasts up to 2 years.
+
+Microsoft Clarity sets _clck, which holds a visitor identifier, and _clsk, which joins the pages of one visit into a single recording. Depending on your browser, Microsoft may also set CLID, MUID, SM, MR and ANONCHK, which it uses to recognise a browser across its own sites. Microsoft lists them at learn.microsoft.com/clarity/clarity-cookies.
+
+### Who we share it with
+
+We do not sell personal data or share it for advertising. We share it only with the service providers that run our email, our hosting and, if you accept analytics cookies, Google Analytics, Google Tag Manager and Microsoft Clarity, and only so they can provide those services. This can involve transferring it outside the UK and the European Economic Area, including to the United States, under the safeguards the law requires.
+
+### How long we keep it
+
+We keep correspondence for as long as the business conversation it belongs to remains live, and for a reasonable period afterwards. Ask us to delete yours at any time. Google Analytics keeps visit data for 2 months. Microsoft Clarity keeps recordings for up to 13 months, and most are deleted after 30 days.
+
+### Your rights
+
+You have the right to see the personal data we hold about you, to have it corrected or deleted, to restrict or object to how we use it, and to receive a copy of it in a portable form. Email info@valantiq.com. If you are unhappy with our response, you can complain to the Information Commissioner’s Office at ico.org.uk, or to the data protection authority in your own country. Residents of California and other US states have similar rights, and you can use them in the same way.
+
+You also have the right to withdraw your consent to analytics at any time. Use the link on this page. It takes effect straight away.
+
+Last updated: October 2026
