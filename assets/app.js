@@ -306,6 +306,7 @@ if (o !== d && o.open) o.open = false;
 var headers = document.querySelectorAll('[data-header]');
 if (!headers.length) return;
 var sections = document.querySelectorAll('[data-ground]');
+var totops = document.querySelectorAll('.totop');   // the back-to-top button (laptop only: its CSS hides it elsewhere)
 var ticking = false, lastY = window.scrollY;
 function reveal() {
 var y = window.scrollY, h = headers[0].offsetHeight || 68;
@@ -321,6 +322,9 @@ else if (show) x.classList.remove('is-hidden');
 });
 lastY = y;
 }
+Array.prototype.forEach.call(document.querySelectorAll('.totop__btn'), function (b) {
+b.addEventListener('click', function () { window.scrollTo({ top: 0, behavior: 'instant' }); });   // at once: a glide would rewind every scroll-played block on the way
+});
 function ground() {
 ticking = false;
 reveal();
@@ -332,6 +336,17 @@ if (r.height && r.top <= y && r.bottom > y) night = sec.getAttribute('data-groun
 });
 var moved = window.scrollY > 2;
 Array.prototype.forEach.call(headers, function (h) { h.classList.toggle('night', night); h.classList.toggle('is-scrolled', moved); });
+if (totops.length) {
+var by = window.innerHeight - 50, tg = 'paper';
+Array.prototype.forEach.call(sections, function (sec) {
+var r = sec.getBoundingClientRect();
+if (r.height && r.top <= by && r.bottom > by) tg = sec.getAttribute('data-ground') === 'night' ? 'night' : sec.classList.contains('stone') ? 'stone' : 'paper';
+});
+Array.prototype.forEach.call(totops, function (t) {
+t.classList.toggle('is-on', window.scrollY > window.innerHeight);
+var b = t.querySelector('.totop__btn'); b.classList.remove('night', 'stone', 'paper'); b.classList.add(tg);
+});
+}
 var mid = window.innerHeight / 2, dark = false, found = false;
 Array.prototype.forEach.call(sections, function (sec) {
 var r = sec.getBoundingClientRect();
@@ -677,7 +692,9 @@ spaceOut();
 fix = kx / (h / FH); place();
 held = total; run = settled ? 0 : Math.round(vh * 1.3); sc.style.height = (total + run) + 'px';
 }
+var replayDown = box.id === 'your-data';
 function target() {
+if (settled && replayDown && sc.getBoundingClientRect().top > window.innerHeight) { settled = false; layout(); cur = null; }
 if (settled) return 1;
 if (passed(sc)) {
 settled = true; cur = 1;
