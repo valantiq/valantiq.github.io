@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>gmail-multi-mcp – Application information</title>
+<meta name="description" content="Information about the gmail-multi-mcp Google OAuth application: what it does, the single read-only Gmail permission it requests, and how data is handled.">
+<!-- Keep this page out of search results, caches and AI training/answer systems. -->
+<meta name="robots" content="noindex, nofollow, noarchive, nosnippet, noimageindex, notranslate, noai, noimageai">
+<meta name="googlebot" content="noindex, nofollow, noarchive, nosnippet">
+<meta name="referrer" content="no-referrer">
+<style>
+  :root { color-scheme: light dark; --ink: #071a2f; --bg: #fff; --fg: #071a2f; --fg-2: rgba(7,26,47,.72); --hair: rgba(7,26,47,.16); --link: #2d7184; --signal: #4da3c7; --chip: rgba(7,26,47,.07); }
+  @media (prefers-color-scheme: dark) { :root { --bg: #071a2f; --fg: #fff; --fg-2: rgba(255,255,255,.74); --hair: rgba(255,255,255,.2); --link: #4da3c7; --chip: rgba(255,255,255,.1); } }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--fg); font: 16px/1.6 Inter, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .brand { background: #071a2f; color: #fff; border-bottom: 1px solid rgba(255,255,255,.14); }
+  .brand__in { max-width: 42rem; margin: 0 auto; padding: 1rem; display: flex; align-items: center; gap: .75rem; }
+  .brand svg { width: 2.1rem; height: auto; flex: none; }
+  .brand span { font-weight: 600; font-size: .95rem; letter-spacing: .22em; text-transform: uppercase; }
+  main { max-width: 42rem; margin: 0 auto; padding: 2rem 1rem 4rem; }
+  h1 { font-size: 1.8rem; line-height: 1.2; font-weight: 600; letter-spacing: -.02em; margin: 0 0 .25rem; }
+  h2 { font-size: 1.2rem; font-weight: 600; letter-spacing: -.01em; margin: 2rem 0 .5rem; }
+  .meta { color: var(--fg-2); margin: 0 0 1.5rem; }
+  a { color: var(--link); text-underline-offset: .15em; }
+  code { font: .9em ui-monospace, SFMono-Regular, Menlo, monospace; background: var(--chip); padding: .1em .35em; border-radius: 4px; word-break: break-all; }
+  nav ul { padding-left: 1.2rem; }
+  footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--hair); color: var(--fg-2); font-size: .85rem; }
+</style>
+</head>
+<body>
+<header class="brand"><div class="brand__in"><svg viewBox="1 2 46 30" fill="none" stroke="#fff" stroke-width="1.9" stroke-linecap="round" aria-hidden="true" focusable="false"><path d="M3 29.5H44"/><path d="M3 28C12 25 16 6 29 5C37 4.4 40.5 9 41 13"/><path d="M13.26 23.95C19.83 21.76 22.75 7.89 32.24 7.16C38.08 6.72 40.63 10.08 41 13"/><path d="M23.14 20.05C27.37 18.64 29.25 9.71 35.36 9.24C39.12 8.96 40.77 11.12 41 13"/><circle cx="42.4" cy="13" r="2.7" fill="#4da3c7" stroke="none"/></svg><span>Valantiq</span></div></header>
+<main>
+  <h1>gmail-multi-mcp</h1>
+  <p class="meta">Application information · Last updated 27 October 2026</p>
+
+  <h2>What this application is</h2>
+  <p><strong>gmail-multi-mcp</strong> is a small, <strong>read-only</strong> tool that runs on its owner's own computer. It lets the owner's AI assistant search and read the owner's own Gmail mailboxes, for example a personal Gmail account and a work account together, when the owner asks it to.</p>
+  <p>It is operated by Valantiq Limited as a personal tool. It is <strong>not</strong> a hosted service, has no public user base, and has no servers that receive anyone's email. It only works for the Google accounts of the person running it.</p>
+
+  <h2>The one permission it requests</h2>
+  <p>The application requests a single Google OAuth scope:</p>
+  <p><code>https://www.googleapis.com/auth/gmail.readonly</code>, shown by Google as "View your email messages and settings".</p>
+  <p>This is needed so the owner can ask questions such as "find the invoice from last week" across their accounts. The application can read messages, conversations, labels and existing drafts. It <strong>cannot</strong> send, delete, modify, label or archive mail, and it requests no other Google permission.</p>
+
+  <h2>How data is handled</h2>
+  <ul>
+    <li>Email is read from Google only when the owner asks, and is processed on the owner's computer.</li>
+    <li>The application does not send email content to the developer or to any server operated by the developer.</li>
+    <li>It does not store email content. It stores only the sign-in credential (a refresh token) in the owner's operating-system keychain, plus a local list of the owner's account names and a local activity log that contains no email content.</li>
+    <li>Email text the owner's AI assistant reads is processed by that assistant's provider under the provider's terms, at the owner's direction. See the Privacy Policy for details.</li>
+    <li>The owner can disconnect at any time and revoke access at <code>myaccount.google.com/permissions</code>.</li>
+  </ul>
+  <p>gmail-multi-mcp's use and transfer to any other app of information received from Google APIs will adhere to the <a href="https://developers.google.com/terms/api-services-user-data-policy">Google API Services User Data Policy</a>, including the Limited Use requirements.</p>
+
+  <h2>Legal</h2>
+  <nav aria-label="Legal documents">
+    <ul>
+      <li><a href="/gmail-multi-mcp/privacy/">Privacy Policy</a></li>
+      <li><a href="/gmail-multi-mcp/terms/">Terms of Service</a></li>
+    </ul>
+  </nav>
+
+  <h2>Contact</h2>
+  <p>Questions about this application or its use of Google data: <a href="mailto:marko@valantiq.com">marko@valantiq.com</a>.</p>
+
+  <footer>© 2026 Valantiq Limited<br>Registered in England and Wales, company number 16522699. Registered office: International House, 36-38 Cornhill, London, EC3V 3NG, United Kingdom.</footer>
+</main>
+</body>
+</html>
