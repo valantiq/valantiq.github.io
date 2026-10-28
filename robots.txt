@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-# Compliance pages: keep AI crawlers out
+# Unlisted pages: keep AI crawlers out
 User-agent: GPTBot
 User-agent: OAI-SearchBot
 User-agent: ChatGPT-User
@@ -23,5 +23,6 @@ User-agent: Diffbot
 User-agent: DuckAssistBot
 User-agent: MistralAI-User
 Disallow: /gmail-multi-mcp/
+Disallow: /ai-first-enterprise/
 
 Sitemap: https://valantiq.com/sitemap.xml
